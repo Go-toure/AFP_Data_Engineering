@@ -1,0 +1,29 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+.ipynb_checkpoints/ 
+.venv/ 
+venv/ 
+.env 
+.env.* 
+!.env.example 
+*.log 
+ 
+# AFP surveillance datasets 
+data/raw/ 
+data/processed/ 
+data/reference/ 
+outputs/ 
+logs/ 
+*.csv 
+*.xlsx 
+*.xls 
+*.parquet 
+*.rds 
+*.RData 
+*.sqlite 
+*.db 
+*.mdb 
+*.accdb 
+*.ldb 
+*.laccdb 
